@@ -1,5 +1,5 @@
 // Program that adds all odd entries
-// in an array
+// in an array.
 #include <iostream>
 using namespace std;
 
