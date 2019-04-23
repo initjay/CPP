@@ -1,4 +1,6 @@
-// combine
+// Program that combines one array into
+// the middle of another. Assumed the first
+// array has room for both arrays.
 #include <iostream>
 using namespace std;
 
